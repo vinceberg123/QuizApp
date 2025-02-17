@@ -1,6 +1,5 @@
 using Quiz;
 
-RoundThree();
 // Introduction
 Console.WriteLine("[?] Enter your username");
 string userName = Console.ReadLine();
