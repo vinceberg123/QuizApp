@@ -1,0 +1,14 @@
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\bin\Debug\net7.0\Quiz.exe
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\bin\Debug\net7.0\Quiz.deps.json
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\bin\Debug\net7.0\Quiz.runtimeconfig.json
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\bin\Debug\net7.0\Quiz.dll
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\bin\Debug\net7.0\Quiz.pdb
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfo.cs
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.dll
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\refint\Quiz.dll
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.pdb
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\Quiz.genruntimeconfig.cache
+C:\Users\vince\Code\c#\Opdrachten\Praktijk\Quiz\obj\Debug\net7.0\ref\Quiz.dll
